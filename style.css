@@ -3,3 +3,23 @@
     margin: 0;
     box-sizing: border-box;
 }
+html{
+    font-size: 10px;
+}
+nav{
+    display: flex;
+    width: 90vw;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-div img{
+    width: 65%;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+nav ul li{
+    margin-left: 2rem;
+}
