@@ -16,6 +16,9 @@ nav{
     border: 1px solid red;
     font-family: 'Poppins', sans-serif;
 }
+nav a{
+    text-decoration: none;
+}
 .logo-div img{
     width: 55%;
 }
