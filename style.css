@@ -8,10 +8,11 @@ html{
 }
 nav{
     display: flex;
-    width: 90vw;
+    width: 91vw;
     margin: auto;
     justify-content: space-between;
     align-items: center;
+    border: 1px solid red;
 }
 .logo-div img{
     width: 55%;
@@ -22,4 +23,9 @@ nav ul{
 }
 nav ul li{
     margin-left: 2rem;
+}
+.lg-div{
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 30%;
 }
