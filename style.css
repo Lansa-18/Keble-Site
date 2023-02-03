@@ -28,5 +28,6 @@ nav ul li{
     display: flex;
     justify-content: space-between;
     flex-basis: 10%;
+    list-style: none;
     border: 1px solid blue;
 }
