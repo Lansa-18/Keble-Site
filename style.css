@@ -39,6 +39,12 @@ nav ul li{
     list-style: none;
     border: 1px solid blue;
 }
-.lg-div a{
+.lg-div li a{
     color: #475569;
+}
+.btn-link{
+    background: linear-gradient(93.39deg, #35977F 3.19%, #006B56 102.74%);
+    box-shadow: 0px 4px 8px rgba(73, 84, 90, 0.2);
+    border-radius: 5px;
+    color: white;
 }
