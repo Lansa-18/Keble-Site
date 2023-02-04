@@ -26,6 +26,9 @@ nav ul{
     display: flex;
     list-style-type: none;
 }
+nav ul a{
+    color: #475569;
+}
 nav ul li{
     margin-left: 2rem;
 }
