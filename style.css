@@ -34,10 +34,9 @@ nav ul li{
 }
 .lg-div{
     display: flex;
-    justify-content: space-between;
-    flex-basis: 10%;
+    /* justify-content: space-between;
+    flex-basis: 10%; */
     list-style: none;
-    border: 1px solid blue;
 }
 .lg-div li a{
     color: #475569;
@@ -47,4 +46,5 @@ nav ul li{
     box-shadow: 0px 4px 8px rgba(73, 84, 90, 0.2);
     border-radius: 5px;
     color: white;
+    padding: .5rem;
 }
