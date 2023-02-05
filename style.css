@@ -60,13 +60,13 @@ nav ul li{
     font-family: 'Inter', sans-serif;
 }
 .cnt-img img{
-    width: 70%;
+    width: 100%;
     /* left: 30.5rem; */
     /* border: 1px solid black; */
     /* position: relative; */
 }
 .cnt1 p{
-    font-weight: 450;
+    font-weight: 400;
     font-size: 2.3rem;
     margin-bottom: .7rem;
 }
