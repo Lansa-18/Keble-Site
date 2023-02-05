@@ -9,11 +9,10 @@ html{
 }
 header{
     width: 91vw;
+    margin: auto;
 }
 nav{
     display: flex;
-    width: 91vw;
-    margin: auto;
     justify-content: space-between;
     align-items: center;
     font-family: 'Poppins', sans-serif;
