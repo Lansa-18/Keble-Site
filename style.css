@@ -68,5 +68,8 @@ nav ul li{
     margin-bottom: .7rem;
 }
 .cnt1 h3{
-    font-size: 4rem;
+    font-size: 3.5rem;
+}
+.cnt1 span{
+    color: #35977F;
 }
