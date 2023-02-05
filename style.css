@@ -7,6 +7,9 @@
 html{
     font-size: 10px;
 }
+header{
+    width: 91vw;
+}
 nav{
     display: flex;
     width: 91vw;
@@ -51,4 +54,13 @@ nav ul li{
     color: white;
     padding: .5rem 1.5rem;
     margin-left: 1.5rem;
+}
+.cnt1{
+    display: flex;
+    border: 1px solid red;
+    justify-content: space-between;
+}
+.cnt-img img{
+    width: 45%;
+   
 }
