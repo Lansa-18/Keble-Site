@@ -56,8 +56,17 @@ nav ul li{
     display: flex;
     border: 1px solid red;
     justify-content: space-between;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
 }
 .cnt-img img{
-    width: 45%;
-   
+    width: 60%;
+}
+.cnt1 p{
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin-bottom: .7rem;
+}
+.cnt1 h3{
+    font-size: 4rem;
 }
