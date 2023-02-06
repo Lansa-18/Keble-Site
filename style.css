@@ -62,7 +62,7 @@ nav ul li{
 .cnt-img img{
     width: 100%;
 }
-.cnt-txt p{
+.p1{
     font-weight: 400;
     font-size: 2.3rem;
     margin-bottom: .7rem;
@@ -96,4 +96,7 @@ nav ul li{
 }
 .get1, .get2{
     border: 1px solid #1E293B;
+}
+.p2{
+    font-size: 1.6rem;
 }
