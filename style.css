@@ -97,9 +97,13 @@ nav ul li{
 .get-div img{
     width: 10%;
 }
+.get-div .get1{
+    margin-right: 2rem;
+}
 .get1, .get2{
     border: 1px solid #1E293B;
     padding: 1rem 1.5rem;
+    border-radius: .8rem;
 }
 .span2{
     font-size: 1.4rem;
