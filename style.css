@@ -83,6 +83,8 @@ nav ul li{
 .btn1{
     background: linear-gradient(93.39deg, #35977F 3.19%, #006B56 102.74%);
     color: white;
-    padding: .5rem 1.5rem;
+    padding: 1rem 1.5rem;
     border: none;
+    border-radius: .8rem;
+    margin-top: 1rem;
 }
