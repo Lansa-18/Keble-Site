@@ -91,7 +91,8 @@ nav ul li{
 .get-div{
     border: 1px solid red;
     display: flex;
-    font-size: 1rem;
+    font-size: 1.6rem;
+    font-weight: 300;
 }
 .get1, .get2{
     border: 1px solid #1E293B;
