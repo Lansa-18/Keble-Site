@@ -71,7 +71,7 @@ nav ul li{
     font-size: 4.5rem;
     margin-bottom: 1.5rem;
 }
-.cnt1 span{
+.span1{
     color: #35977F;
 }
 .cnt-img{
@@ -91,12 +91,17 @@ nav ul li{
 .get-div{
     border: 1px solid red;
     display: flex;
+    align-items: center;
     font-size: 1.6rem;
     font-weight: 300;
+}
+.get-div img{
+    width: 10%;
 }
 .get1, .get2{
     border: 1px solid #1E293B;
 }
-.p2{
-    font-size: 1.6rem;
+.span2{
+    font-size: 1.4rem;
+    
 }
