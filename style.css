@@ -54,16 +54,13 @@ nav ul li{
 }
 .cnt1{
     display: flex;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     justify-content: space-between;
     align-items: center;
     font-family: 'Inter', sans-serif;
 }
 .cnt-img img{
     width: 100%;
-    /* left: 30.5rem; */
-    /* border: 1px solid black; */
-    /* position: relative; */
 }
 .cnt1 p{
     font-weight: 400;
@@ -78,12 +75,14 @@ nav ul li{
     color: #35977F;
 }
 .cnt-img{
-    /* position: relative;
-    left: 0; */
     flex-basis: 40%;
-    /* border: 1px solid blue; */
 }
 .cnt-txt{
-    border: 1px solid blue;
     flex-basis: 60%;
+}
+.btn1{
+    background: linear-gradient(93.39deg, #35977F 3.19%, #006B56 102.74%);
+    color: white;
+    padding: .5rem 1.5rem;
+
 }
