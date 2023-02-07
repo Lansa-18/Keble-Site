@@ -127,3 +127,7 @@ nav ul li{
 .bdy-cnt-txt p{
     font-size: 1.3rem;
 }
+.flex1{
+    display: flex;
+    align-items: center;
+}
