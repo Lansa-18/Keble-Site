@@ -116,6 +116,7 @@ nav ul li{
     border: 1px solid red;
     text-align: center;
 }
-.bdy-cnt-text{
-    text-align: center;
+.bdy-cnt-txt h3{
+    color: #186250;
+    font-size: 3.5rem;
 }
