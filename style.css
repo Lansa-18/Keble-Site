@@ -129,5 +129,5 @@ nav ul li{
 }
 .flex1{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
 }
