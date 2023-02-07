@@ -114,8 +114,11 @@ nav ul li{
     width: 91vw;
     margin: auto;
     border: 1px solid red;
-    text-align: center;
     font-family: 'Inter', sans-serif;
+}
+.bdy-cnt-txt{
+    text-align: center;
+
 }
 .bdy-cnt-txt h3{
     color: #186250;
