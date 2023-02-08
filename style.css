@@ -130,18 +130,19 @@ nav ul li{
 .flex1{
     display: flex;
     /* align-items: center; */
+    width: 100%;
 }
 .invest-img{
     border: 1px solid blue;
     /* width: 20%; */
-    flex-basis: 50%;
+    flex-basis: 55%;
 }
 .invest-img img{
     width: 100%; 
 }
 .invest-txt{
     border: 1px solid red;
-    flex-basis: 30%;
+    flex-basis: 45%;
 }
 .invest-txt h3{
     color: #186250;
