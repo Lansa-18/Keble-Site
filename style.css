@@ -134,6 +134,7 @@ nav ul li{
 .invest-img{
     border: 1px solid blue;
     /* width: 20%; */
+    flex-basis: 50%;
 }
 .invest-txt{
     border: 1px solid red;
