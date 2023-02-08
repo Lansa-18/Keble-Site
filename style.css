@@ -138,6 +138,6 @@ nav ul li{
 .invest-txt{
     border: 1px solid red;
 }
-/* .invest-img img{
-    width: 50%; 
-} */
+.invest-img img{
+    width: 100%; 
+}
