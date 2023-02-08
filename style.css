@@ -131,6 +131,9 @@ nav ul li{
     display: flex;
     /* align-items: center; */
 }
-.invest-img img{
-    width: 50%;
+.invest-img{
+    border: 1px slid blue;
+}
+/* .invest-img img{
+    width: 50%; */
 }
