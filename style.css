@@ -113,7 +113,7 @@ nav ul li{
 .bdy-cnt{
     width: 91vw;
     margin: auto;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-family: 'Inter', sans-serif;
 }
 .bdy-cnt-txt{
