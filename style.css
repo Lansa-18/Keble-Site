@@ -152,6 +152,9 @@ nav ul li{
 .invest-txt p{
     color: #475569;
     font-size: 1.3rem;
+    width: 65%;
+    line-height: 1.8;
+    border: 1px solid black;
 }
 .invest-txt button{
     background: linear-gradient(93.39deg, #35977F 3.19%, #006B56 102.74%);
