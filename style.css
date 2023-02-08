@@ -141,4 +141,8 @@ nav ul li{
 }
 .invest-txt{
     border: 1px solid red;
+    flex-basis: 30%;
+}
+.invest-txt h3{
+    color: #186250;
 }
