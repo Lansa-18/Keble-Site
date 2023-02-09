@@ -143,6 +143,7 @@ nav ul li{
 .invest-txt{
     border: 1px solid red;
     flex-basis: 45%;
+    justify-self: flex-end;
     /* text-align: center; */
 }
 .invest-txt h3{
