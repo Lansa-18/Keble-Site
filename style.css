@@ -155,7 +155,7 @@ nav ul li{
     font-size: 1.3rem;
     width: 65%;
     line-height: 1.8;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: 2.5rem 0;
 }
 .invest-txt button{
