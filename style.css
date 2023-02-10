@@ -172,7 +172,7 @@ nav ul li{
     flex-basis: 45%;
 }
 .savings-img{
-
+    flex-basis: 75%;
 }
 .savings-img img{
     width: 90%;
