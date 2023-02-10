@@ -168,7 +168,9 @@ nav ul li{
     padding: .8rem 1.5rem;
     border: none;
 }
-
+.savings-txt{
+    flex-basis: 45%;
+}
 .savings-img{
 
 }
