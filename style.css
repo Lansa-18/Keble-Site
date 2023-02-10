@@ -169,11 +169,11 @@ nav ul li{
     border: none;
 }
 .savings-txt{
-    flex-basis: 45%;
-}
-.savings-img{
     flex-basis: 75%;
 }
+.savings-img{
+    flex-basis: 65%;
+}
 .savings-img img{
-    width: 70%;
+    width: 90%;
 }
