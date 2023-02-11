@@ -184,9 +184,6 @@ nav ul li{
     margin-top: 3rem;
     display: flex;
 }
-.iphone-img{
-    border: 1px;
-}
 .iphone-img img{
     width: 90%;
 }
