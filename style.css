@@ -200,6 +200,9 @@ nav ul li{
     border: 1px solid red;
     padding: 2rem 2.5rem;
 }
+.spons-img{
+    text-align: center;
+}
 .spons-img img{
     width: 10%;
     margin-right: 5rem;
