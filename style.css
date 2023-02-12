@@ -201,8 +201,10 @@ nav ul li{
     padding: 2rem 2.5rem;
 }
 .sponsor-div{
-    width: 95vw;
+    width: 75vw;
     margin: auto;
+    display: flex;
+    flex-direction: column;
     border: 1px solid red;
 }
 .sponsors h4{
@@ -210,9 +212,9 @@ nav ul li{
     font-size: 1.8rem;
 }
 .spons-img{
-    text-align: center;
+    /* text-align: center; */
 }
 .spons-img img{
-    width: 10%;
+    width: 15%;
     margin-right: 5rem;
 }
