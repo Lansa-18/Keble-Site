@@ -206,7 +206,6 @@ nav ul li{
     display: flex;
     flex-direction: column;
     border: 1px solid red;
-    text-align: center;
 }
 .sponsors h4{
     color: #186250;
