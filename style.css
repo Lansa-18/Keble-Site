@@ -203,7 +203,7 @@ nav ul li{
 .sponsor-div{
     width: 95vw;
     margin: auto;
-    bo
+    border: 1px solid red;
 }
 .sponsors h4{
     color: #186250;
