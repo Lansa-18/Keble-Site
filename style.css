@@ -198,4 +198,9 @@ nav ul li{
 .sponsors{
     background: rgba(204, 216, 255, 0.15);
     border: 1px solid red;
+    padding: 2rem 2.5rem;
+}
+.spons-img img{
+    width: 10%;
+    margin-right: 5rem;
 }
