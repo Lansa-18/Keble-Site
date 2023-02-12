@@ -198,10 +198,10 @@ nav ul li{
 .sponsors{
     background: rgba(204, 216, 255, 0.15);
     border: 1px solid red;
-    padding: 3rem 2.5rem;
+    padding: 5rem 2.5rem;
 }
 .sponsor-div{
-    width: 75vw;
+    width: 65vw;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -210,11 +210,12 @@ nav ul li{
 .sponsors h4{
     color: #186250;
     font-size: 1.8rem;
+    margin-bottom: 4rem;
 }
 .spons-img{
     /* text-align: center; */
 }
 .spons-img img{
-    width: 13%;
+    width: 14%;
     margin-right: 5rem;
 }
