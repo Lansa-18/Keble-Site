@@ -206,6 +206,7 @@ nav ul li{
     display: flex;
     flex-direction: column;
     border: 1px solid red;
+    text-align: center;
 }
 .sponsors h4{
     color: #186250;
@@ -215,6 +216,6 @@ nav ul li{
     /* text-align: center; */
 }
 .spons-img img{
-    width: 15%;
+    width: 13%;
     margin-right: 5rem;
 }
