@@ -226,6 +226,12 @@ nav ul li{
     margin: auto;
     font-size: 1.8rem;
 }
+.v-child1 div{
+    background: linear-gradient(93.39deg, #35977F 3.19%, #006B56 102.74%);
+    flex-basis: 50%;
+}
 .v-child1 span{
     color: #35977F;
+    flex-basis: 50%;
+
 }
