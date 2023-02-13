@@ -217,3 +217,7 @@ nav ul li{
 .vector-sec{
     margin-top: 3rem;
 }
+.v-child1{
+    display: flex;
+    border: 1px solid red;
+}
