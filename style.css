@@ -220,10 +220,12 @@ nav ul li{
 .v-child1{
     display: flex;
     background: rgba(53, 151, 127, 0.1);
-    color: white;
     border-radius: .7rem;
     justify-content: space-around;
     width: 25%;
     margin: auto;
     font-size: 1.8rem;
+}
+.v-child1 span{
+    color: #35977F;
 }
