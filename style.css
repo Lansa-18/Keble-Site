@@ -234,3 +234,6 @@ nav ul li{
     color: #35977F;
     flex-basis: 50%;
 }
+.v-child1 h3{
+    font-family: 'Inter';
+}
