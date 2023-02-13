@@ -113,7 +113,6 @@ nav ul li{
 .bdy-cnt{
     width: 91vw;
     margin: auto;
-    /* border: 1px solid red; */
     font-family: 'Inter', sans-serif;
 }
 .bdy-cnt-txt{
@@ -136,18 +135,14 @@ nav ul li{
     width: 100%;
 }
 .invest-img{
-    /* border: 1px solid blue; */
-    /* width: 20%; */
     flex-basis: 75%;
 }
 .invest-img img{
     width: 70%; 
 }
 .invest-txt{
-    /* border: 1px solid red; */
     flex-basis: 45%;
     justify-self: flex-end;
-    /* text-align: center; */
 }
 .invest-txt h3, .savings-txt h3{
     color: #186250;
@@ -158,7 +153,6 @@ nav ul li{
     font-size: 1.3rem;
     width: 75%;
     line-height: 1.8;
-    /* border: 1px solid black; */
     margin: 2.5rem 0;
 }
 .invest-txt button, .savings-txt button{
