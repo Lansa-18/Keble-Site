@@ -245,4 +245,6 @@ nav ul li{
     width: 91vw;
     margin: auto; 
 }
-.vector-div 
+.vector-div .shadow{
+    position: absolute;
+}
