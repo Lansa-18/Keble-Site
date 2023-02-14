@@ -237,4 +237,6 @@ nav ul li{
 .vector-sec h3{
     font-family: 'Inter';
     font-size: 2rem;
+    width: 91vw;
+    margin: auto;
 }
