@@ -250,11 +250,14 @@ nav ul li{
     position: absolute;
     top: 19rem;
     left: 4.5rem;
-    /* border: 1px solid red; */
 }
 .act-vec{
     width: 90%;
 }
 .shadow{
     width: 85%;
+}
+.vec-flex{
+    display: flex;
+    border: 1px solid red;
 }
