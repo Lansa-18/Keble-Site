@@ -266,3 +266,6 @@ nav ul li{
     margin: auto; 
     border: 1px solid red;
 }
+.vec-text{
+    display: flex;
+}
