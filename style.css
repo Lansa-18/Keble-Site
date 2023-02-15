@@ -259,5 +259,7 @@ nav ul li{
 }
 .vec-flex{
     display: flex;
+    width: 91vw;
+    margin: auto; 
     border: 1px solid red;
 }
