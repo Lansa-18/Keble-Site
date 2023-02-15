@@ -246,7 +246,7 @@ nav ul li{
     margin: auto; 
     border: 1px solid red;
 }
-.vector-div img{
+.vector-div > img{
     width: 90%;
 }
 .vector-div .shadow{
@@ -256,5 +256,6 @@ nav ul li{
     /* border: 1px solid red; */
 }
 .shadow{
-    width: 80%;
+    width: 20%;
+    border: 1px solid blue;
 }
