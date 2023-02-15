@@ -248,7 +248,7 @@ nav ul li{
 }
 .vector-div .shadow{
     position: absolute;
-    top: 19rem;
+    top: 21rem;
     left: 7rem;
     /* border: 1px solid red; */
 }
@@ -256,6 +256,6 @@ nav ul li{
     width: 90%;
 }
 .shadow{
-    width: 80%;
+    width: 85%;
     border: 1px solid blue;
 }
