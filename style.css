@@ -210,7 +210,7 @@ nav ul li{
 }
 .vector-sec{
     margin-top: 5rem;
-    position: relative;
+    /* position: relative; */
 }
 .v-child1{
     display: flex;
@@ -245,6 +245,9 @@ nav ul li{
     width: 91vw;
     margin: auto; 
     /* border: 1px solid red; */
+}
+.position{
+    position: relative;
 }
 .vector-div .shadow{
     position: absolute;
