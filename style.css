@@ -244,13 +244,15 @@ nav ul li{
 .vector-div{
     width: 91vw;
     margin: auto; 
+    display: flex;
+    flex-direction: column;
     /* border: 1px solid red; */
 }
-.position{
+/* .position{
     position: relative;
-}
+} */
 .vector-div .shadow{
-    position: absolute;
+    /* position: absolute; */
     top: 19rem;
     left: 4.5rem;
 }
@@ -268,4 +270,7 @@ nav ul li{
 }
 .vec-text{
     display: flex;
+}
+.vec-text{
+    width: 50%;
 }
