@@ -277,8 +277,9 @@ nav ul li{
 .vec-text{
     width: 25%;
 }
-.vec-cont{
-    width: 60%;
+.vec-cont img{
+    width: 10%;
+    border: 1px solid blue;
 }
 /* .vec-text img{
     height: 84%;
