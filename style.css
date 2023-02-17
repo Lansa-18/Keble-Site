@@ -262,7 +262,8 @@ nav ul li{
 .shadow{
     width: 85%;
     position: relative;
-    top: ;
+    bottom: 4rem;
+    border: 1px solid blue;
 }
 .vec-flex{
     display: flex;
