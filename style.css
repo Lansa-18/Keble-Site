@@ -261,6 +261,8 @@ nav ul li{
 }
 .shadow{
     width: 85%;
+    position: relative;
+    top: ;
 }
 .vec-flex{
     display: flex;
