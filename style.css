@@ -279,9 +279,9 @@ nav ul li{
 }
 .vec-cont img{
     width: 10%;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
-/* .vec-text img{
+.vec-text img{
     height: 84%;
-    border: 1px solid blue;
-} */
+    /* border: 1px solid blue; */
+}
