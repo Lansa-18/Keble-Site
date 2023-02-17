@@ -276,4 +276,5 @@ nav ul li{
 }
 .vec-text{
     width: 50%;
+    border: 1px solid blue;
 }
