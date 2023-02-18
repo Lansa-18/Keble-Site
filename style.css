@@ -273,7 +273,7 @@ nav ul li{
 }
 .vec-text{
     display: flex;
-    width: 25%;
+    flex-basis: 25%;
     border: 1px solid blue;
     align-items: center;
 }
