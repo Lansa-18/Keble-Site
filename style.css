@@ -261,6 +261,6 @@ nav ul li{
     width: 91vw;
     margin: auto; 
     border: 1px solid red;
-    grid-template-rows: repeat(1, 4fr);
+    grid-template-columns: repeat(4, 1fr);
     /* grid-template-rows: repeat(1); */
 }
