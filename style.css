@@ -268,7 +268,7 @@ nav ul li{
     align-items: center;
 }
 .vec-text img{
-    bord
+    border: 1px solid green;
 }
 .no-flex{
     display: flex;
