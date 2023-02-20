@@ -262,17 +262,3 @@ nav ul li{
     margin: auto; 
     border: 1px solid red;
 }
-.vec-text{
-    display: flex;
-    border: 1px solid blue;
-    align-items: center;
-}
-.vec-text img{
-    border: 1px solid green;
-    flex-basis: 1%;
-}
-.no-flex{
-    display: flex;
-    flex-direction: column;
-}
-
