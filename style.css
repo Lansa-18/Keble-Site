@@ -267,6 +267,9 @@ nav ul li{
     border: 1px solid blue;
     align-items: center;
 }
+.vec-text img{
+    bord
+}
 .no-flex{
     display: flex;
     flex-direction: column;
