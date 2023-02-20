@@ -269,5 +269,6 @@ nav ul li{
 }
 .no-flex{
     display: flex;
+    flex-direction: column;
 }
 
